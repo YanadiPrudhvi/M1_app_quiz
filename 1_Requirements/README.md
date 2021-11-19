@@ -23,3 +23,12 @@
 - Can reach to more locations.
 ### - *Threats*
 - Compitetion with other quiz platforms.
+## 4W and 1H
+### - Who
+- Yanadi Prudhvi try to implement a problem statement.
+### - What
+- Implementation of online application for KBC quiz.
+### - Where
+- It is a online application.
+### - How
+- This application is implemented using C programing language.
