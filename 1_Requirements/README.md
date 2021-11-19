@@ -10,3 +10,16 @@
 - show how much price money won after the quiz.
 ## Start of art/research
 [KBC wiki](https://en.wikipedia.org/wiki/Kaun_Banega_Crorepati)
+## Swot analysis
+### - *Strength*
+- Very reputed quiz platform.
+- Well architectual quiz.
+- Helps to improve knowledge of customers.
+### - *Weakness*
+- Less scope to improve features.
+- Some people can't participates in quiz.
+### - *Opportunities*
+- Potential to to diversity into related market segments.
+- Can reach to more locations.
+### - *Threats*
+- Compitetion with other quiz platforms.
