@@ -10,6 +10,8 @@
 - show how much price money won after the quiz.
 ## Start of art/research
 [KBC wiki](https://en.wikipedia.org/wiki/Kaun_Banega_Crorepati)
+
+![WhatsApp Image 2021-11-20 at 9 39 27 PM](https://user-images.githubusercontent.com/94187482/142733231-770e0b2a-de7c-47bc-ab59-626162468b2c.jpeg)
 ## Swot analysis
 ### - *Strength*
 - Very reputed quiz platform.
