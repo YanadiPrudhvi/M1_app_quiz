@@ -16,3 +16,4 @@ LLR_2_HLR_1|Show "Give proper response", when give other than y (or) n.||
 |LLR_3_HLR_2|Provide question with options by entering into new functions question1.||
 |LLR_4_HLR_2|Participares have to choice one choice in th given choices.||
 |LLR_5_HLR_2|Show "Give proper response", when give other than given choices.||
+|LLR_1_HLR_3|If praticipant quit or complete the quiz or eliminate in middle show their result.|||
