@@ -70,3 +70,35 @@
 |LLR_3_HLR_2|If choice correct go to next question.|Implimented|
 |LLR_4_HLR_2|If choice wrong exit from quiz|Implimented|
 |LLR_1_HLR_3|Show how much won by participant.|Implimented|
+# Implementation
+
+## Folder Structure
+
+---
+
+| Folder | Description                                  |
+| ------ | -------------------------------------------- |
+| inc    | All headers files                            |
+| src    | Main source code                             |
+| unity  | All unity files                              |
+| test   | All source code and data for testing purpose |
+
+## Manual
+
+### Setup to run Project
+
+- An integrated development environment (Suggesting Visual Studio Code).
+- GCC compiler to compile the project.
+- "make" to run the Makefile smoothly.
+
+### Steps To run Project
+
+1. First clone the repository from the Github.
+2. Open the repository in an IDE (Suggesting Visual Studio Code).
+3. The next step is to build the project with the help of make command :
+   - make all
+4. Next step is to run the project with help of make command :
+   - make exec
+5. Clean all executable files by the following command :
+   - make clean
+
