@@ -38,18 +38,19 @@
 ### - *High level requirements*
 |HLR_ID|Description|Status(Implemented/Future)|
 |------|-----------|--------------------------|
-|HLR_1|Entering the quiz|     -|
-|HLR_2|Participates in quiz|-|
-|HLR_3|After the quiz, show result|-|
+|HLR_1|Entering the quiz|Implimented|
+|HLR_2|Participates in quiz|Implimented|
+|HLR_3|After the quiz, show result|Implimented|
+|HLR_4|Timer for every question|Future|
+|HLR_5|Life lines and quit option|Future|
 ### - *Low level requirements*
 |LLR_ID|Description|Status(Implemented/Future)|
 |------|-----------|--------------------------|
-|LLR_1_HLR_1| Participants give y to enter n to exit in char type.|-|
-|LLR_2_HLR_1|Show "Give proper response", when give other than y (or) n.|-|
-|LLR_3_HLR_1|Continue quiz if y given, exit when n is given.|-|
-|LLR_1_HLR_2|Show preview of quiz to the participants.|-|
-|LLR_2_HLR_2|Enter name to participates in quiz in char string type.|-|
-|LLR_3_HLR_2|Provide question with options by entering into new functions question1.|-|
-|LLR_4_HLR_2|Participares have to choice one choice in th given choices.|-|
-|LLR_5_HLR_2|Show "Give proper response", when give other than given choices.|-|
-|LLR_1_HLR_3|If praticipant quit or complete the quiz or eliminate in middle show their result.|-|
+|LLR_1_HLR_1| Participant give name in char type|Implimented|
+|LLR_2_HLR_1|Show Welcome message|Implimented|
+|LLR_3_HLR_1|Show rules of quiz|Implimented|
+|LLR_1_HLR_2|Enter choice for question in int type|Implimented|
+|LLR_2_HLR_2|If choice other than 1,2,3,4, show 'give proper response',and read input again|Implimented|
+|LLR_3_HLR_2|If choice correct go to next question.|Implimented|
+|LLR_4_HLR_2|If choice wrong exit from quiz|Implimented|
+|LLR_1_HLR_3|Show how much won by participant.|Implimented|
