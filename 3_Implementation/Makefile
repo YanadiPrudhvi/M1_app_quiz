@@ -7,5 +7,3 @@ exec:
 	./final
 clean:
 	rm -rf final
-staticcheck:
-	cppcheck --enable=all final
