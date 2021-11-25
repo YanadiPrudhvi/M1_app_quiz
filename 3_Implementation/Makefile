@@ -8,4 +8,4 @@ exec:
 clean:
 	rm -rf final
 staticcheck:
-	cppcheck --enable=all 
+	cppcheck --enable=all final
