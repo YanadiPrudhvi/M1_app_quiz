@@ -1,39 +1,49 @@
 # Requirements for KBC quiz mini project
 ## Identifying features
-- Participants can enter the quiz by enter their name.
-- Show the overall process to the participants before entering quiz.
-- Participate in MCQ type quiz.
-- Make a timer to the every question.
-- Provide report of questions and answers.
-- Increase difficulte level of questions in progressing of quiz.
-- Participants can use 50/50, swap question, quit options.
-- show how much price money won after the quiz.
+-   Participants can enter the quiz by enter their name.
+-   Show the overall process to the participants before entering quiz.
+-   Participate in MCQ type quiz.
+-   Make a timer to the every question.
+-   Provide report of questions and answers.
+-   Increase difficulte level of questions in progressing of quiz.
+-   Participants can use 50/50, swap question, quit options.
+-   show how much price money won after the quiz.
+-   
 ## Start of art/research
 [KBC wiki](https://en.wikipedia.org/wiki/Kaun_Banega_Crorepati)
 
 ![WhatsApp Image 2021-11-20 at 9 39 27 PM](https://user-images.githubusercontent.com/94187482/142733231-770e0b2a-de7c-47bc-ab59-626162468b2c.jpeg)
+
 ## Swot analysis
 ### - *Strength*
-- Very reputed quiz platform.
-- Well architectual quiz.
-- Helps to improve knowledge of customers.
-### - *Weakness*
-- Less scope to improve features.
-- Some people can't participates in quiz.
+-   Very reputed quiz platform.
+-   Well architectual quiz.
+-   Helps to improve knowledge of customers.
+
+### -   *Weakness*
+-   Less scope to improve features.
+-  Some people can't participates in quiz.
+
 ### - *Opportunities*
-- Potential to to diversity into related market segments.
-- Can reach to more locations.
+-   Potential to to diversity into related market segments.
+-   Can reach to more locations.
+ 
 ### - *Threats*
-- Compitetion with other quiz platforms.
+-   Compitetion with other quiz platforms.
+   
 ## 4W and 1H
-### - Who
-- Yanadi Prudhvi try to implement a problem statement.
+### -   Who
+-   Yanadi Prudhvi try to implement a problem statement.
+
 ### - What
-- Implementation of online application for KBC quiz.
-### - Where
-- It is a online application.
-### - How
-- This application is implemented using C programing language.
+-  Implementation of online application for KBC quiz.
+
+### -  Where
+-   It is a online application.
+
+### -   How
+-    This application is implemented using C programing language.
+
 ## Detailed requirements
 ### - *High level requirements*
 |HLR_ID|Description|Status(Implemented/Future)|
