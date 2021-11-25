@@ -79,55 +79,6 @@ question9()
                  goto label3;
              }
          break;
-         case 4:
-           printf("Which of the following bodies certifies the circulation figures of newspapers \n1.ISI \n2.PTI \n3.AINEC \n4.ABC \n");
-            label4:
-             choice=chose();
-             if(choice==1||choice==2||choice==3||choice==4)
-             {
-                 if(4==choice)
-                 {
-                     printf("\n correct answer, Goning to next question\n");
-                     question10();
-                 }
-                 else
-                 {
-                      printf("answer is wrong you won 25,00,000rs\n");
-                     //end()
-                 }
-             }
-             else
-             {
-                 printf("give proper input....\n");
-                 __fpurge(stdin);
-                 goto label4;
-             }
-         break;
-         case 5:
-           printf("The bhopal disaster is the result of\n1.collapsing of a dam\n2.great fire\n3.plauge epidemic\n4.none of above\n");
-            label5:
-             choice=chose();
-             if(choice==1||choice==2||choice==3||choice==4)
-             {
-                 if(4==choice)
-                 {
-                     printf("\n correct answer, Goning to next question\n");
-                     question10();
-                 }
-                 else
-                 {
-                      printf("answer is wrong you won 25,00,000rs\n");
-                     //end()
-                 }
-             }
-             else
-             {
-                 printf("give proper input....\n");
-                 __fpurge(stdin);
-                 goto label5;
-             }
-         break;
-
     }
 
     
