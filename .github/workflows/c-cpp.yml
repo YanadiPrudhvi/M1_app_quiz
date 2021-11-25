@@ -5,12 +5,12 @@ on: [push]
 jobs:
   build:
     name: cppcheck
-    runs-on: ubuntu-latest
+    runs-on: ubuntu
     steps:
       - uses: actions/checkout@v2
         
       - name: Install cppcheck
         run: sudo apt-get -y install cppcheck
       - name: Cppcheck code
-        run: cppcheck YanadiPrudhvi/M1_app_quiz
+        run: cppcheck M1_app_quiz
  
