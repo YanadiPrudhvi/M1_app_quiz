@@ -2,6 +2,10 @@
 - quiz based on show kbc.
 - This application helps to improve your knowledge. 
 - Explore the folders to know more.......
+
+![code](https://api.codiga.io/project/30048/score/svg)               ![grade](https://api.codiga.io/project/30048/status/svg)
+
+
 ## Folder Structure
 
 | Folder            | Description                                  |
