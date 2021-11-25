@@ -15,7 +15,7 @@
 
 int random_choice()
 {
-    int lower = 1, upper = 3;
+    int lower = 1, upper = 2;
     int num;
     srand(time(0));
     num = (rand() % (upper - lower + 1)) + lower;
