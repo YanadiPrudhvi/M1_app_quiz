@@ -8,7 +8,7 @@
 -   Increase difficulte level of questions in progressing of quiz.
 -   Participants can use 50/50, swap question, quit options.
 -   show how much price money won after the quiz.
--   
+ 
 ## Start of art/research
 [KBC wiki](https://en.wikipedia.org/wiki/Kaun_Banega_Crorepati)
 
@@ -22,7 +22,7 @@
 
 ### -   *Weakness*
 -   Less scope to improve features.
--  Some people can't participates in quiz.
+-   Some people can't participates in quiz.
 
 ### - *Opportunities*
 -   Potential to to diversity into related market segments.
