@@ -12,5 +12,5 @@ jobs:
       - name: Install cppcheck
         run: sudo apt-get -y install cppcheck
       - name: Cppcheck code
-        run: cppcheck M1_app_quiz/3_Implementation/main.c
+        run: cppcheck M1_app_quiz
  
