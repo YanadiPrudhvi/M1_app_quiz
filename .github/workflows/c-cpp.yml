@@ -13,11 +13,7 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: configure
-      run: ./configure
-    - name: make
-      run: make
-    - name: make check
-      run: make check
-    - name: make distcheck
-      run: make distcheck
+    - name: build
+      run: gcc main.c rules.c welcome.c functions.h random_choice.c question1.c chose.c  question2.c question3.c question4.c question5.c question6.c question7.c question8.c question9.c question10.c -o final
+    - name: run
+      run: ./final
