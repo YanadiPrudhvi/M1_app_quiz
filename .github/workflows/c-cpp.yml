@@ -12,5 +12,5 @@ jobs:
       - name: Install cppcheck
         run: sudo apt-get -y install cppcheck
       - name: Cppcheck code
-        run: cppcheck M1_app_quiz
+        run: cppcheck YanadiPrudhvi/M1_app_quiz
  
