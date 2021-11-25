@@ -14,7 +14,7 @@ void main()
 {
     char* name[50];
     printf("please enter your name:");
-    gets(name);
+    scanf("%s",name);
     welcome();
     rules(name);
     question1(name);
